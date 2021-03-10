@@ -1,0 +1,127 @@
+
+body{
+    background-color: rgb(146, 146, 146);
+}
+
+
+p{
+    font-size: 1.5em;
+    margin-left: 10px;
+}
+
+
+
+
+
+
+.head{
+    height: 178px;
+    width: 1885px;
+    background-color: white;
+}
+
+.house{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+
+img{
+    height: 130px;
+    width: 125px;
+    margin-left:35px;
+    
+}
+
+h2{
+    margin-left: 10px;
+}
+
+
+
+
+
+
+
+.container{
+    display: flex;
+    
+}
+
+.carré{
+    width: 450px;
+    height: 550px;
+    background-color: white;
+    margin: 15px;
+}
+
+.wheat{
+    justify-content: center;
+    align-items: center;
+    width: 170px;
+    height: 170px;
+}
+
+.column1{
+    flex-direction: column;
+}
+.column2{
+    flex-direction: column;
+    margin-right: 30px;
+}
+
+.carré1{
+    display: flex;
+    justify-content: center;
+}
+
+
+
+
+
+
+.carréw{
+    width: 450px;
+    height: 590px;
+    background-color: white;
+    margin: 15px;
+}
+.tree{
+    width: 400px;
+    height: 450px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    margin: 30px;
+    
+}
+
+
+
+
+
+
+
+
+
+.carré4{
+    display: flex;
+    justify-content: center;
+}
+
+
+
+a{
+    color: rgb(16, 188, 240);
+    text-decoration: none;
+    margin-left: 10px;
+}
+
+
+
+
+
+
+
+
